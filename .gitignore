@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+data/*
+!data/README.md
+~$*
+*.keras
+*.h5
